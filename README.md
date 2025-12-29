@@ -51,17 +51,20 @@ By shifting from a **volume-at-all-costs** model to a **premiumization and conve
 ## 🧠 Design Thinking Process
 
 ### 1️⃣ Empathize
-<img width="1510" height="821" alt="image" src="https://github.com/user-attachments/assets/e95c6fdd-d88c-478b-aaf9-e9ed413e4887" />
-<img width="1585" height="843" alt="image" src="https://github.com/user-attachments/assets/1ecd0ef3-a228-4fc7-92b7-5d841bebe1ec" />
+
+<img width="1651" height="910" alt="image" src="https://github.com/user-attachments/assets/3e2eb134-e544-45a1-bd29-091d6b806d7e" />
+
+<img width="1666" height="807" alt="image" src="https://github.com/user-attachments/assets/79f9b701-c01e-4fae-91a0-5a3ebd1a04a6" />
 
 ### 2️⃣ Define point of view 
 
-<img width="1541" height="825" alt="image" src="https://github.com/user-attachments/assets/452559a6-e523-42ca-b777-3cdbb4d28e10" />
-<img width="1539" height="859" alt="image" src="https://github.com/user-attachments/assets/aa115c3d-ea77-4eee-a606-66b6f2c26767" />
+<img width="1631" height="714" alt="image" src="https://github.com/user-attachments/assets/31b19334-cf12-458f-a643-4e598c0ea214" />
+
+<img width="1612" height="883" alt="image" src="https://github.com/user-attachments/assets/6808aecd-4a09-495d-b847-eb3acb8dbe97" />
 
 ### 3️⃣ Ideate
 
-<img width="1486" height="819" alt="image" src="https://github.com/user-attachments/assets/bcec9703-ee65-45c2-8a93-4587c9c8dce5" />
+<img width="1656" height="889" alt="image" src="https://github.com/user-attachments/assets/25e6da1f-d5f4-47a6-9fbb-dc92a07f1f7e" />
 
 ### 4️⃣ Prototype and review
 
