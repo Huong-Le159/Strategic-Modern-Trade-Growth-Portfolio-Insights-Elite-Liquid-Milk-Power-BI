@@ -211,30 +211,36 @@ This part is in the dashboard
 **1. Extreme Health Consciousness and Willingness to Pay**
 *   An overwhelming **97.7% of consumers** express high health concern, with nearly **90% prioritizing health** in their purchase decisions.
 *   Crucially, **74.4% of consumers are willing to pay more** for healthier options.
-*   → **Strategic Focus:** High "Willingness to Pay" justifies a higher Price Index and premium positioning if health benefits (e.g., Organic certification) are clearly communicated.
+  
+  → **Strategic Focus:** High "Willingness to Pay" justifies a higher Price Index and premium positioning if health benefits (e.g., Organic certification) are clearly communicated.
 
 **2. The "Trial Gap": High Awareness but Low Conversion**
 *   The purchase journey shows a massive drop-off: **57.6% are aware** of the product, but only **14.2% have ever used it**.
 *   Marketing is successfully reaching the audience, but they are not yet committing to the first purchase.
-*   → **Strategic Focus:** Implement "Trial-Driving" activities such as in-store sampling or small "trial packs" to bridge the gap between awareness and first-time usage.
+
+→ **Strategic Focus:** Implement "Trial-Driving" activities such as in-store sampling or small "trial packs" to bridge the gap between awareness and first-time usage.
 
 **3. Word-of-Mouth and Point-of-Sale (POS) Outperform Digital**
 *   **Word of Mouth** is the #1 information source, followed by **Visibility at the Point of Sale** and TV advertising.
 *   Social Media (Facebook/Instagram) currently has the lowest influence on purchase behavior in this category.
-*   → **Strategic Focus:** Reallocate digital ad spend toward **Trade Marketing** (premium shelf displays) and community-based advocacy to leverage the power of personal recommendations.
+
+ → **Strategic Focus:** Reallocate digital ad spend toward **Trade Marketing** (premium shelf displays) and community-based advocacy to leverage the power of personal recommendations.
 
 **4. Supermarkets are the Undisputed "Home" of Organic Milk**
 *   Supermarkets (like Co.op Mart) are the primary purchase channel in both HCMC and Hanoi.
 *   Despite the general growth of Mini-marts, organic milk consumers still prefer "Bulk/Weekly" shopping in larger formats.
-*   → **Strategic Focus:** Maintain Supermarkets as the "Core" volume channel while using CVS/Mini-marts strictly for "Reach" and trial availability.
+
+→ **Strategic Focus:** Maintain Supermarkets as the "Core" volume channel while using CVS/Mini-marts strictly for "Reach" and trial availability.
 
 **5. Organic Milk is an "Occasional" Purchase, Not a Daily Habit**
 *   The majority of consumers buy organic milk **2-3 times a month**; daily or weekly consumption remains a niche behavior.
-*   → **Strategic Focus:** Increase consumption frequency by promoting the benefits of daily organic intake (e.g., "A Glass a Day" campaigns) to move the product from a luxury treat to a household staple.
+
+→ **Strategic Focus:** Increase consumption frequency by promoting the benefits of daily organic intake (e.g., "A Glass a Day" campaigns) to move the product from a luxury treat to a household staple.
 
 **6. Strong Intention to Buy in the Immediate Future**
 *   **41.2% of consumers** express a clear intention to purchase or use the product within the next 3 months.
-*   → **Strategic Focus:** Focus near-term sales targets on capturing this "Intent" through high-visibility promotions during the peak periods identified in the Q1-Q4 trend data.
+
+→ **Strategic Focus:** Focus near-term sales targets on capturing this "Intent" through high-visibility promotions during the peak periods identified in the Q1-Q4 trend data.
 </details>  
 
 ## 🔎 Final Conclusion & Recommendation 
