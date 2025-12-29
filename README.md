@@ -88,7 +88,8 @@ This part is in the dashboard
 #### Type: [Regular]
 <img width="1921" height="1084" alt="image" src="https://github.com/user-attachments/assets/49eab76d-9473-4f43-a6a0-45619dd7b7b4" />
 
-### ⭐ Key Findings — Modern Trade Overview
+<details>
+<summary> <strong>⭐ Key Findings — Overview</strong></summary>
 
 **1. Organic is the Growth Engine; Regular is Stagnant**  
 - **Organic** sales grew strongly by **12.17% YoY** (reaching 4.11K BiLVND).  
@@ -119,7 +120,8 @@ This part is in the dashboard
 - The **Regular segment (16.1K BiLVND)** is 3.5x larger than the **Organic segment (4.6K BiLVND)**.  
 - Even a small % increase in Regular MT share would result in massive revenue gains compared to Organic growth.  
 → Strategic priority: **Revitalize the Regular portfolio** while scaling the high-growth Organic engine.
-  
+</details>
+
 ### II.Segment & Pricing
 
 #### Type: [Organic]
@@ -128,7 +130,8 @@ This part is in the dashboard
 #### Type: [Regular]
 <img width="1931" height="1084" alt="image" src="https://github.com/user-attachments/assets/1adcd540-76c6-442b-9a2e-bd740fcb5a24" />
 
-### ⭐ Key Findings — Segment & Pricing
+<details>
+<summary> <strong>⭐ Key Findings — Overview</strong></summary>
 
 **1. "Sweetened" is the Must-Have Flavor**  
 - Across both segments, **Sweetened milk** is the overwhelming consumer favorite, significantly outperforming Plain and Less Sugar variants.
@@ -158,12 +161,14 @@ This part is in the dashboard
 **6. MT Consumers are Brand-Driven, Not Price-Driven**  
 - Despite having the lowest Price Index, Elite does not have the highest sales velocity; premium-priced brands like **Farmy** and **Wonderland** move faster off the shelf.  
 → **Strategic Focus:** Pivot marketing communication from "Affordability" to "Superior Nutrition" to increase brand pull in the Modern Trade channel.
-     
+</details>    
+
 ### III. Availability & Efficiency
 
 <img width="1929" height="1063" alt="image" src="https://github.com/user-attachments/assets/462b27ac-4c48-4f51-af42-90992b95cafa" />
 
-### ⭐ Key Findings — Availability & Efficiency
+<details>
+<summary> <strong>⭐ Key Findings — Overview</strong></summary>
 
 **1. Massive Distribution Gap at Major Retailers**
 - **VinMart+** and **Bach Hoa Xanh** represent the largest untapped opportunities; at VinMart+, the "Store Gap" is currently larger than the number of stores carrying Elite.
@@ -194,12 +199,14 @@ This part is in the dashboard
 - While Elite leads in total volume, **Goldmilk** actually has higher Numeric Distribution (Reach).
 - Consumers encounter Goldmilk in more physical locations, even if they buy Elite in higher volumes elsewhere.
 → **Strategic Focus:** Increase brand visibility by matching Goldmilk’s numeric reach to prevent share loss via consumer convenience and proximity.
+</details>   
 
 ### IV. Purchase Behavior
 
 <img width="1932" height="1081" alt="image" src="https://github.com/user-attachments/assets/c5897bcc-9a0b-46d4-afb7-985482ec490d" />
 
-### ⭐ Key Findings — Purchase Behavior
+<details>
+<summary> <strong>⭐ Key Findings — Overview</strong></summary>
 
 **1. Extreme Health Consciousness and Willingness to Pay**
 *   An overwhelming **97.7% of consumers** express high health concern, with nearly **90% prioritizing health** in their purchase decisions.
@@ -228,8 +235,7 @@ This part is in the dashboard
 **6. Strong Intention to Buy in the Immediate Future**
 *   **41.2% of consumers** express a clear intention to purchase or use the product within the next 3 months.
 *   → **Strategic Focus:** Focus near-term sales targets on capturing this "Intent" through high-visibility promotions during the peak periods identified in the Q1-Q4 trend data.
-
----
+</details>  
 
 ## 🔎 Final Conclusion & Recommendation 
 
