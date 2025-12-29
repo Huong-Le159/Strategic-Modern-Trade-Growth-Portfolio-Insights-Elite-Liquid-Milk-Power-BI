@@ -50,25 +50,31 @@ By shifting from a **volume-at-all-costs** model to a **premiumization and conve
 
 ## 🧠 Design Thinking Process
 
-### 1️⃣ Empathize
+<details>
+<summary><strong>1️⃣ Empathize</strong></summary>
 
 <img width="1651" height="910" alt="image" src="https://github.com/user-attachments/assets/3e2eb134-e544-45a1-bd29-091d6b806d7e" />
-
 <img width="1666" height="807" alt="image" src="https://github.com/user-attachments/assets/79f9b701-c01e-4fae-91a0-5a3ebd1a04a6" />
+</details>
 
-### 2️⃣ Define point of view 
+<details>
+<summary><strong>2️⃣ Define point of view</strong></summary>
 
 <img width="1631" height="714" alt="image" src="https://github.com/user-attachments/assets/31b19334-cf12-458f-a643-4e598c0ea214" />
-
 <img width="1612" height="883" alt="image" src="https://github.com/user-attachments/assets/6808aecd-4a09-495d-b847-eb3acb8dbe97" />
+</details>
 
-### 3️⃣ Ideate
+<details>
+<summary><strong>3️⃣ Ideate</strong></summary>
 
 <img width="1656" height="889" alt="image" src="https://github.com/user-attachments/assets/25e6da1f-d5f4-47a6-9fbb-dc92a07f1f7e" />
+</details>
 
-### 4️⃣ Prototype and review
+<details>
+<summary><strong>4️⃣ Prototype and review</strong></summary>
 
 This part is in the dashboard
+</details>
 
 ## 📊 Key Insights & Visualizations
 
